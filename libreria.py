@@ -1,0 +1,6 @@
+print("Bienvenido, las opciones son: ")
+print("1. Crear un libro")
+print("2. Actualizar un libro")
+print("3. ")
+print("4.")
+print("5.")
